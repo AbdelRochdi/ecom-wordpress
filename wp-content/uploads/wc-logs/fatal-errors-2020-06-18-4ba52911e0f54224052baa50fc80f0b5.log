@@ -1,0 +1,2 @@
+2020-06-18T17:33:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\testWordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\ProductOnSale.php on line 10
+
